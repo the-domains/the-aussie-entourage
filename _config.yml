@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2793148
+  lightness: 0.08309078
+  brandStrength: 1
+  brandColors:
+    - '#FAF8F9'
+    - '#404040'
+    - '#171914'
+    - '#766F69'
+    - '#C2B8AF'
+  rhythmicContrast: 0.04319822
+typography_spectrum: 0.478141
+name: The Aussie Entourage
